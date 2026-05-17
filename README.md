@@ -74,13 +74,6 @@
 
 ---
 
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <h3 align="center">
 ⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Ravi Raj Gupta</a>
 </h3>
