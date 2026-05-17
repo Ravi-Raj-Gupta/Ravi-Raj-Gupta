@@ -66,12 +66,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,cloudflare,npm,yarn,bash,vscode,linux" />
 </p>
 
-### 🤖 AI & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
 ---
 
 <h3 align="center">
