@@ -68,6 +68,12 @@
 
 ---
 
+## ✨ Live / Dynamic Widgets
+- Contribution Heatmap:  
+  <p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contrib-snake"/></p>
+
+---
+
 <h3 align="center">
 ⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Ravi Raj Gupta</a>
 </h3>
