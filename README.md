@@ -24,18 +24,20 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="left" style="display:flex; gap:12px; align-items:center;">
+
+<a href="https://linkedin.com/in/ravirajgupta16" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" style="display:block;" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://github.com/Ravi-Raj-Gupta" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40" style="display:block;" />
 </a>
 
 <a href="mailto:ravirajgupta383@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="40" style="display:block;" />
 </a>
+
 </p>
 
 ---
